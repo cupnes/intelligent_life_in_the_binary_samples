@@ -1,0 +1,10 @@
+*~
+*.o
+*.map
+*.bin
+fs
+GPATH
+GRTAGS
+GTAGS
+
+!kernel.bin
