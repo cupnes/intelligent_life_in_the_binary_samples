@@ -2,7 +2,10 @@
 *.o
 *.map
 *.bin
-fs
+*.img
+
+init
+
 GPATH
 GRTAGS
 GTAGS
